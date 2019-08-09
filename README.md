@@ -16,7 +16,7 @@ Two repositories that hold learning resources used in this course are:
 - [lesson-7](./lesson-7) is on federated learning
 - [lesson-8](./lesson-8) is on securing federated learning
 - [lesson-9](./lesson-9) is on encrypting deep learning
-- [PATE MNIST Analysis](./PATE MNIST Analysis.ipynb) is a proposed project
+- [PATE MNIST Analysis](./PATE%20MNIST%20Analysis.ipynb) is a proposed project
 on using general differential privacy to train an unlabaled dataset
 
 ## PATE MNIST analysis
